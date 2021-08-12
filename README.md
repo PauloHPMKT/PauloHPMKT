@@ -1,5 +1,5 @@
 ## Hi there! 👋 I am Paulo Sérgio - I'm a front-end and web designer developer
-- 🌱 I’m currently learning web development front-end developer
+- 🌱 I’m currently learning web development front-end 
  <div>
   <a href="https://github.com/PauloHPMKT">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PauloHPMKT&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
