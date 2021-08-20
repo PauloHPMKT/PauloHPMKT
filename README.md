@@ -1,5 +1,8 @@
 ## Hi there! 👋 I am Paulo Sérgio - I'm a front-end and web designer developer
 - 🌱 I’m currently learning web development front-end 
+- Starting my new skills in ReactJS and NodeJs
+
+- 🤔 I’m looking for my first experience to grow my skills
  <div>
   <a href="https://github.com/PauloHPMKT">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PauloHPMKT&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -10,6 +13,7 @@
   <img align="center" alt="Paulo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Paulo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  <img align="center" alt="Paulo-Js" height="30" width="40" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor">
+ <img align="center" alt="Paulo-Js" height="30" width="40" src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor">
 </div>
 
 ##
