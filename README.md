@@ -1,8 +1,7 @@
-## Hi there! 👋 I am Paulo Sérgio - I'm a front-end and web designer developer
-- 🌱 I’m currently learning web development front-end 
-- Starting my new skills in ReactJS and NodeJs
+## Hi there! 👋 I am Paulo Sérgio - I'm a FullStack and web designer developer
+- 🌱 I’m currently learning fullstack technologies for web development 
+- Starting my new skills in Nest JS, TypeScript and Docker
 
-- 🤔 I’m looking for my first experience to grow my skills
  <div>
   <a href="https://github.com/PauloHPMKT">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PauloHPMKT&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
